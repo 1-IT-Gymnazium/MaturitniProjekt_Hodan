@@ -9,7 +9,7 @@ For more info, check the [documentation](https://etb-documentation.vercel.app/).
 
 To play "Escape The Mazerooms", follow these simple steps:
 
-1. Download `EscapeTheBackrooms_SetupWizard.exe` from the releases section.
+1. Download `ETM_Setup.exe` from the releases section.
 2. Install the [dependencies](#Dependencies).
 3. Run the installer and follow the on-screen instructions to install the game.
 4. Once installed, navigate to the installation folder and run `EscapeTheMazerooms.exe` to start the game.
