@@ -61,7 +61,7 @@ After Python is installed, you can install the remaining dependencies using `pip
 
 ## License
 
-"Escape The Mazerooms" is released under the [License](LICENSE.txt).
+"Escape The Mazerooms" is released under the [MIT License](LICENSE.txt).
 
 ## Contact
 
