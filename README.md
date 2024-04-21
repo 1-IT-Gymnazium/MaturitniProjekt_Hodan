@@ -1,4 +1,6 @@
-# Escape The Mazerooms
+# Escape The Mazerooms¨
+
+![Escape the Mazerooms](ezgif-6-5206ecdee4.jpg)
 
 Welcome to the repository of "Escape The Mazerooms", a spine-chilling 2D horror game where your wit is your greatest ally. Traverse through a series of mazes and rooms, each with its own set of eerie challenges and puzzles.
 For more info, check the [documentation](https://etb-documentation.vercel.app/). Also, visit GitHub source of documentation [HERE](https://github.com/hody109/ETB-Documentation).
