@@ -1,4 +1,4 @@
-# Escape The Mazerooms¨
+# Escape The Mazerooms
 
 ![Escape the Mazerooms](preview.jpg)
 
